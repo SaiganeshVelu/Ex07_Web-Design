@@ -16,6 +16,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <html>
 <head>
 <script type="text/javascript">
@@ -62,7 +63,7 @@ Enter option for doing the corresponding operation
 </p>
 </body>
 </html>
-
+```
 
 ## OUTPUT
 ![exp 7 img 1](https://github.com/SaiganeshVelu/Ex07_Web-Design/assets/127816325/8bef6ae7-eff9-4fff-affc-d9fd8af3a922)
